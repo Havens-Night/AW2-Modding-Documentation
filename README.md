@@ -20,9 +20,7 @@
 | AW2 Material Template | Alan Wake 2 .material template for 010 Editor. | [Github](https://github.com/SilverEzredes/AW2_material.bt) |
 | Binfbx Blender Plugin |  Blender addon for importing *.binfbx files from Alan Wake 2. | [Github](https://github.com/riverence/io_scene_binfbx) |
 | Unluau | A decompiler for Luau. | [Github](https://github.com/atrexus/unluau) |
-| Vortex Mod Manager | For installing mods with a click of a button. | [Nexus Mods](https://www.nexusmods.com/site/mods/836) |
-
 
 
 ### Discord:
-If you want to contribute or need support join the [Modding Haven Discord](https://discord.gg/modding-haven-718224210270617702)
+If you want to contribute or need support join the [Haven's Night Discord](https://discord.gg/9Vr2SJ3)
